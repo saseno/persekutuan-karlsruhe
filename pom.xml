@@ -5,6 +5,7 @@
     <packaging>war</packaging>
     <version>1.0</version>
 
+
     <groupId>org.persekutuankarlsruhe</groupId>
     <artifactId>persekutuan-webapp</artifactId>
 
